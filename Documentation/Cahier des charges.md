@@ -20,5 +20,3 @@ Des barrières photoélectriques détectent si la balle arrive au point final ou
 
 Une barrière activée par un servo moteur libère la bille pour que le joueur puisse la positionner après avoir démarrer la partie.
 
-
-[^1]:Julius ORTSTADT G4 Peip2 - Projet Arduino 2022-2023.
