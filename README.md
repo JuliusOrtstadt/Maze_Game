@@ -2,4 +2,4 @@
 
 Projet Arduino: Maze Game
 
-Bienvenue sur le GitHub de mon projet arduino pour 2022-2023!
+Bienvenue sur le GitHub de mon projet arduino Maze_Game!
