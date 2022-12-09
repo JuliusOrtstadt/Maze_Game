@@ -2,7 +2,7 @@
 
 
 **NOM DU PROJET :** \
-Maze Game
+Maze_Game
 
 **DESCRIPTION DU PROJET :**\
 Maze_Game est un jeu de labyrinthe dont le but est de naviguer une bille du point de départ au point final sans tomber dans les trous présents sur la planche de jeu.
