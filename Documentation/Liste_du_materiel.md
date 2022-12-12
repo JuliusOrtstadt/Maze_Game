@@ -10,3 +10,5 @@
 | Barrières photoélectriques | 2 |
 | Impressions de pièces en 3D | x |
 | Découpage de la blanche de jeu en bois | x |
+| Balle en métal | 1 |
+| LED de différentes couleurs | x |
