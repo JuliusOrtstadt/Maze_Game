@@ -9,6 +9,7 @@
 | Bouton | 2 |
 | Barrières photoélectriques | 2 |
 | Impressions de pièces en 3D | x |
-| Découpage de la blanche de jeu en bois | x |
-| Balle en métal | 1 |
+| Planche de jeu en bois | x |
+| Planche de base en bois | x |
+| Bille | 1 |
 | LED de différentes couleurs | x |
