@@ -7,7 +7,7 @@ Les différentes pièces modélisées sont:
 ![Planche principale](https://github.com/JuliusOrtstadt/Maze_Game/blob/a0012b8b0fcad7106bb0e93f42db34eb6e7d2783/Documentation/Pictures/main_plate.PNG)
 - Les pieds pour cette planche afin de pouvoir la poser et faire le niveau. Ce dernier sera fait avec une vis insérée dans ce pieds.
 ![Pieds de la planche principale](https://github.com/JuliusOrtstadt/Maze_Game/blob/a0012b8b0fcad7106bb0e93f42db34eb6e7d2783/Documentation/Pictures/pied_main_plate.PNG)
-- Le système de maintient pour les servos moteurs qui assurent le mouvement de la planche de jeu où se situe la bille.
+- Le système de maintient pour les servos moteurs qui assurent le mouvement de la planche de jeu.
 ![Système de maintient pour les servos moteurs](https://github.com/JuliusOrtstadt/Maze_Game/blob/a0012b8b0fcad7106bb0e93f42db34eb6e7d2783/Documentation/Pictures/servo_hold.PNG)
 - Les différentes parties du joint pour permettre le mouvement de la planche de jeu.
 ![Joint partie 1](https://github.com/JuliusOrtstadt/Maze_Game/blob/a0012b8b0fcad7106bb0e93f42db34eb6e7d2783/Documentation/Pictures/joint_1.PNG)
