@@ -16,3 +16,6 @@ Les différentes pièces modélisées sont:
 ![Tige](https://github.com/JuliusOrtstadt/Maze_Game/blob/a0012b8b0fcad7106bb0e93f42db34eb6e7d2783/Documentation/Pictures/tige.PNG)
 - La plaque sur laquelle sera fixée le labyrinthe.
 ![Plaque de fixation du labyrinthe](https://github.com/JuliusOrtstadt/Maze_Game/blob/a0012b8b0fcad7106bb0e93f42db34eb6e7d2783/Documentation/Pictures/plaque_de_jeu.PNG)
+
+
+Finalement, j'ai aussi rechercher des alternatives pour le système de détection de la balle, c'est-à-dire pour savoir si la balle est tombée donc si le joueur a perdu ou gagné en fonction de l'endroit. Une de ces alternivatives serait d'utiliser un bouton sur lequel la bille tomberait mais il faut encore vérifier si le poids de la bille utilisée sera suffisant pour l'activer.
