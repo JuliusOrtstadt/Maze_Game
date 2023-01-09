@@ -14,16 +14,12 @@ Lors de la séance 3, j'ai effectué différents test de code et de montages:
 - Test du servo qui active la porte qui permet par la suite de libérer la bille. 
 ![Image du montage]()
 
-![Schéma du circuit]()
-
-![Code]()
+![Code](https://github.com/JuliusOrtstadt/Maze_Game/blob/82ee6106973b4c41f51d4998014b731abaac0f3e/Documentation/Pictures/Code_test_porte.PNG)
 
 - Test des boutons qui détectent si la bille est tombé et si le joueur a gagné.
 ![Image du montage]()
 
-![Schéma du circuit]()
-
-![Code]()
+![Code](https://github.com/JuliusOrtstadt/Maze_Game/blob/82ee6106973b4c41f51d4998014b731abaac0f3e/Documentation/Pictures/Code_bouton_test.PNG)
 
 
 De plus, la plaque principale a été découpée en 29x29cm. 
