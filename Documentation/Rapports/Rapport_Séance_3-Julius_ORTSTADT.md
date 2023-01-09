@@ -18,7 +18,7 @@ Lors de la séance 3, j'ai effectué différents test de code et de montages:
 
 ![Code]()
 
-- Test des servos qui font bouger la plaque de jeu.
+- Test des boutons qui détectent si la bille est tombé et si le joueur a gagné.
 ![Image du montage]()
 
 ![Schéma du circuit]()
