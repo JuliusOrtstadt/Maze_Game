@@ -24,3 +24,7 @@ Lors de la séance 3, j'ai effectué différents test de code et de montages:
 ![Schéma du circuit]()
 
 ![Code]()
+
+
+De plus, la plaque principale a été découpée en 29x29cm. 
+Les pièces du joints, ainsi que les barres de fixation tout comme les pieds pour la plaque principale ont été lancer en impression.
