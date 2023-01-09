@@ -10,5 +10,17 @@ Avant cette séance, j'ai revu certaines pièces modélisées la dernière fois 
 ![Image de l'assemblage](https://github.com/JuliusOrtstadt/Maze_Game/blob/f9c490b5deef19fa1aa6e19632334a04d03a1677/Documentation/Pictures/Assemblage_2.PNG)
 
 
-Lors de la séance 3, j'ai:
+Lors de la séance 3, j'ai effectué différents test de code et de montages:
+- Test du servo qui active la porte qui permet par la suite de libérer la bille. 
+![Image du montage]()
 
+![Schéma du circuit]()
+
+![Code]()
+
+- Test des servos qui font bouger la plaque de jeu.
+![Image du montage]()
+
+![Schéma du circuit]()
+
+![Code]()
