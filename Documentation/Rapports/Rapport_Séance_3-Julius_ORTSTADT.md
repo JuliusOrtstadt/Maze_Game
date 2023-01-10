@@ -10,7 +10,7 @@ Avant cette séance, j'ai revu certaines pièces modélisées la dernière fois 
 ![Image de l'assemblage](https://github.com/JuliusOrtstadt/Maze_Game/blob/f9c490b5deef19fa1aa6e19632334a04d03a1677/Documentation/Pictures/Assemblage_2.PNG)
 
 
-Lors de la séance 3, j'ai effectué différents test de code et de montages:
+Lors de la séance 3, j'ai effectué différents tests de code et de montages:
 - Test du servo qui active la porte qui permet par la suite de libérer la bille. 
 ![Image du montage](https://github.com/JuliusOrtstadt/Maze_Game/blob/3e81645efb7eda789e4f2809018aa1e250faf6e5/Documentation/Pictures/Montage_servo_porte.jpg)
 
@@ -22,5 +22,5 @@ Lors de la séance 3, j'ai effectué différents test de code et de montages:
 ![Code](https://github.com/JuliusOrtstadt/Maze_Game/blob/82ee6106973b4c41f51d4998014b731abaac0f3e/Documentation/Pictures/Code_bouton_test.PNG)
 
 
-De plus, la plaque principale a été découpée en 29x29cm. 
-Les pièces du joints, ainsi que les barres de fixation tout comme les pieds pour la plaque principale ont été lancer en impression 3D.
+De plus, la plaque principale a été découpé en 29x29cm. 
+Les pièces du joints, ainsi que les barres de fixation tout comme les pieds pour la plaque principale ont été lancé en impression 3D.
