@@ -14,4 +14,5 @@ Et pour la plaque sur laquelle sera fixé le labyrinthe, j’ai décomposé l’
 
 ![Planche principale](https://github.com/JuliusOrtstadt/Maze_Game/blob/72031cac86231babbc91d08531ea4415376eba79/Documentation/Pictures/Planche_principale.PNG)
 
+J’ai aussi commencer à modéliser le « bloc de contrôle » donc le bloc sur lequel seront fixé tout les boutons, l’écran, le joystick et les LED.
 Finalement, j'ai aussi présenter l'avancement de mon projet lors de la présentation de mi-parcours.
