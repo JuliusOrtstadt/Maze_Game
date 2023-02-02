@@ -12,7 +12,7 @@ J’ai ensuite découpé ces pièces et commencer l’assemblage.
 ![Plaque de base](https://github.com/JuliusOrtstadt/Maze_Game/blob/1f281ecf0c9336358d6c8157865bdbff49c0f850/Documentation/Pictures/S%C3%A9ance_5/Plaque_base_impression.PNG)
 
 Ensuite, lors de cette séance, j’ai commencé à coder les fonctionnalités du joystick.
-![]()
+![Image du montage](https://github.com/JuliusOrtstadt/Maze_Game/blob/5a8e186f19fb5d9984c0abcbc3dd83ce17a4aa14/Documentation/Pictures/S%C3%A9ance_5/Montage%20joystick.jpg)
 
 De plus, j’ai réussi à régler le problème de l’écran LCD.\ 
 ![Code écran LCD](https://github.com/JuliusOrtstadt/Maze_Game/blob/1f281ecf0c9336358d6c8157865bdbff49c0f850/Documentation/Pictures/S%C3%A9ance_5/Code_LCD.PNG)
