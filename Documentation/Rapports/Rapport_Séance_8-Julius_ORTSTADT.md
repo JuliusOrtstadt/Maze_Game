@@ -1,15 +1,15 @@
 # Rapport Séance 8 - 02.03.2023
 
-Avant la séance d’aujourd’hui, j‘ai :
+## Avant la séance d’aujourd’hui, j‘ai : 
 -	Créé une version préliminaire de test du code final. Ce dernier test une majeure partie des fonctionnalités notamment le contrôle des servo-moteurs avec le joystick, la navigation à travers le menu et l’affichage des différentes étapes à travers l’écran LCD et les deux LED.
 -	Peint le labyrinthe en noir.\
 ![Labyrinthe](https://github.com/JuliusOrtstadt/Maze_Game/blob/68ccbf3174692546ebfdfe03c42b40fff320acbd/Documentation/Pictures/S%C3%A9ance%208/Labyrinthe.jpg)
 
 -	Modélisé les dernières pièces sur OnShape.\
   Le système de détection de la bille\
-![Pièce 1](https://github.com/JuliusOrtstadt/Maze_Game/blob/68ccbf3174692546ebfdfe03c42b40fff320acbd/Documentation/Pictures/S%C3%A9ance%208/Collection.png)
+![Pièce 1](https://github.com/JuliusOrtstadt/Maze_Game/blob/68ccbf3174692546ebfdfe03c42b40fff320acbd/Documentation/Pictures/S%C3%A9ance%208/Collection.png)\
   La fixation pour le servo de la porte\
-![Pièce 2](https://github.com/JuliusOrtstadt/Maze_Game/blob/68ccbf3174692546ebfdfe03c42b40fff320acbd/Documentation/Pictures/S%C3%A9ance%208/Fixation_servo_porte.png)
+![Pièce 2](https://github.com/JuliusOrtstadt/Maze_Game/blob/68ccbf3174692546ebfdfe03c42b40fff320acbd/Documentation/Pictures/S%C3%A9ance%208/Fixation_servo_porte.png)\
   La fixation pour la porte\
 ![Pièce 3](https://github.com/JuliusOrtstadt/Maze_Game/blob/68ccbf3174692546ebfdfe03c42b40fff320acbd/Documentation/Pictures/S%C3%A9ance%208/Partie_Porte.png)
 
@@ -19,7 +19,7 @@ Avant la séance d’aujourd’hui, j‘ai :
   
 
 
-Lors de cette séance, j’ai :
+## Lors de cette séance, j’ai :
 -	Réglé un problème lié à l’alimentation.
 -	Continuer le développement du code. Il ne manque que quelques réglages et de faire le calibrage des servo-moteurs et du joystick.\
 ![Code 1](https://github.com/JuliusOrtstadt/Maze_Game/blob/68ccbf3174692546ebfdfe03c42b40fff320acbd/Documentation/Pictures/S%C3%A9ance%208/Code_p1.png)
