@@ -4,7 +4,7 @@ Lors de la séance 1, j'ai effectué différentes tâches dont la conception (es
 De plus, j'ai aussi déterminé certaines mesures notamment celles pour la planche de jeu.
 
 - Réalisation de la liste de matériel nécessaire pour le projet:\
-J'ai besoins de différents composants pour mon projet afin de réaliser les différents mouvements, affichages etc.\
+J'ai besoins de différents composants pour mon projet afin de réaliser les différents mouvements, affichages etc.
 
 ![Image de la liste de matériel](/Documentation/Pictures/Seance_1/liste_du_materiel.PNG)\
 
