@@ -6,7 +6,7 @@ Les différentes pièces modélisées sont:
 - La planche principale sur laquelle tout sera fixé.
 ![Planche principale](/Documentation/Pictures/Seance_2/base_plate.PNG)
 - Les pieds pour cette planche afin de pouvoir la poser et faire le niveau. Ce dernier sera fait avec une vis insérée dans ce pieds.
-![Pieds de la planche principale](/Documentation/Pictures/Seance_2/foot_base_plate.PNG)
+![Pieds de la planche principale](/Documentation/Pictures/Seance_2/foot_base_plate.PNG)\
 - Le système de maintient pour les servos moteurs qui assurent le mouvement de la planche de jeu.
 ![Système de maintient pour les servos moteurs](/Documentation/Pictures/Seance_2/servo_hold.PNG)
 - Les différentes parties du joint pour permettre le mouvement de la planche de jeu.
