@@ -10,8 +10,8 @@ Les différentes pièces modélisées sont:
 - Le système de maintient pour les servos moteurs qui assurent le mouvement de la planche de jeu.
 ![Système de maintient pour les servos moteurs](/Documentation/Pictures/Seance_2/servo_hold.PNG)
 - Les différentes parties du joint pour permettre le mouvement de la planche de jeu.
-![Joint partie 1](https://github.com/JuliusOrtstadt/Maze_Game/blob/a0012b8b0fcad7106bb0e93f42db34eb6e7d2783/Documentation/Pictures/joint_1.PNG)
-![Joint partie 2](https://github.com/JuliusOrtstadt/Maze_Game/blob/a0012b8b0fcad7106bb0e93f42db34eb6e7d2783/Documentation/Pictures/joint_2.PNG)
+![Joint partie 1](/Documentation/Pictures/Seance_2/joint_1.PNG)
+![Joint partie 2](/Documentation/Pictures/Seance_2/joint_2.PNG)
 - La tige permettant d'assembler et de tenir en place les différentes parties du joint. Un fil de fer, par exemple, sera placer dans les trous au bout de la tige afin que celle-ci ne tombe pas du joint.
 ![Tige](/Documentation/Pictures/Seance_2/rod.PNG)
 - La plaque sur laquelle sera fixée le labyrinthe.
