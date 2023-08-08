@@ -5,7 +5,7 @@ De plus, j'ai aussi déterminé certaines mesures notamment celles pour la planc
 
 - Réalisation de la liste de matériel nécessaire pour le projet:\
 J'ai besoins de différents composants pour mon projet afin de réaliser les différents mouvements, affichages etc.
-![Image de la liste de matériel](Documentation/Pictures/Seance_1/liste_du_materiel.PNG)
+![Image de la liste de matériel](../Pictures/Seance_1/liste_du_materiel.PNG)
 
 - Réalisation de l'esquisse des différentes parties du projet:\
 J'ai effectué différents dessins montrant les pièces élémentaires du projet dont les joints qui vont permettre l'articulation de la planche de jeu, le système de détection de la balle ainsi que le système pour récupérer cette dernière.\
